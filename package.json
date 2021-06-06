@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -L src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaivodeieva/L9-URL-Users.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaivodeieva/L9-URL-Users/issues"
+  },
+  "homepage": "https://github.com/vaivodeieva/L9-URL-Users#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
